@@ -1,0 +1,30 @@
+# Build products
+build/
+dist/
+out/
+bin/
+obj/
+
+# IDE and OS
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
+
+# Generated/binary project outputs
+*.w25pack
+*.hex
+*.bin
+*.elf
+*.map
+*.o
+*.obj
+
+# Local captures and temporary media
+*.tmp
+*.log
+recordings/
+
